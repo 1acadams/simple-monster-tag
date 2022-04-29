@@ -1,4 +1,3 @@
-# Starter file for Whack-a-Ruby game
 require 'ruby2d'
 
 # Set window title and size
